@@ -1,24 +1,25 @@
 .Accueil{
     position: absolute;
-    width: 120px;
-    height: 30px;
-    left: 50px;
-    top: 37px;
+    width: 71px;
+    height: 24px;
+    left: 278px;
+    top: 48.5px;
     
-    font-family: sans-serif;
+    font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
     
-    color: #000000;
+    color: #412428;
+    
 }
 .Apropos{
     position: absolute;
-width: 120px;
-height: 30px;
-left: 210px;
-top: 35.5px;
+width: 87px;
+height: 24px;
+left: 438px;
+top: 47px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -27,14 +28,15 @@ font-size: 20px;
 line-height: 24px;
 
 color: #412428;
+    
 
 }
 .Contact{
     position: absolute;
-width: 120px;
-height: 30px;
-left: 370px;
-top: 35.5px;
+
+height: 24px;
+left: 598px;
+top: 47px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -44,13 +46,14 @@ line-height: 24px;
 
 color: #412428;
 
+
 } 
 .Boutique{
     position: absolute;
-width: 120px;
-height: 30px;
-left: 530px;
-top: 35.5px;
+
+height: 24px;
+left: 758px;
+top: 47px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -63,4 +66,20 @@ color: #412428;
 }
 .Navb{
     list-style: none;
+}
+.logo{
+    position: absolute;
+
+height: 264px;
+left: 900px;
+top: -80px;
+}
+
+.searchcheckout{
+    position: absolute;
+  
+    height: 44px;
+    left: 1300px;
+    top: 33px;
+    
 }

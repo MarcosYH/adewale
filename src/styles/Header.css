@@ -1,0 +1,164 @@
+.text1{
+    position: absolute;
+width: 750px;
+height: 90px;
+left: 192px;
+top: 245px;
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 45px;
+/* or 141% */
+
+text-transform: uppercase;
+
+color: #412428;
+
+
+}
+.text2{
+
+    position: absolute;
+   
+    height: 45px;
+    left: 350px;
+    top: 284.08px;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    
+    /* identical to box height, or 141% */
+    
+    color: #FFAB00;    
+}
+.text2-2{
+    position: absolute;
+    height: 45px;
+    left: 192px;
+    top: 330.08px;
+    
+   /*font-family: 'Inter';*/
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    color: #FFAB00;    
+}
+.text3{
+    position: absolute;
+    width: 540px;
+    height: 135px;
+    left: 193px;
+    top: 380px;
+    
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    /* or 188% */
+    
+    text-align: justify;
+    
+    color: #412428;
+    
+}
+.img1{
+    position: absolute;
+
+    height: 186.06px;
+    left: 993.29px;
+    top: 190px;
+}
+.img2{
+    position: absolute;
+
+height: 186.06px;
+left: 1180.87px;
+top: 191.35px;
+}
+.img3{
+    position: absolute;
+   
+    height: 186.06px;
+    left: 796.6px;
+    top: 408.69px;
+}
+.img4{
+    position: absolute;
+
+height: 186.06px;
+left: 992.95px;
+top: 374.30px;
+
+}
+.img5{
+    position: absolute;
+
+height: 186.06px;
+left: 1181.53px;
+top: 374px;
+
+}
+.img6{
+    position: absolute;
+
+height: 186.06px;
+left: 1378.07px;
+top: 410.35px;
+
+}
+.img7{
+    position: absolute;
+
+height: 186.06px;
+left: 795.84px;
+top: 595.85px;
+
+}
+.img8{
+    position: absolute;
+
+height: 186.06px;
+left: 992px;
+top: 566.21px;
+
+}
+.img9{
+    position: absolute;
+
+height: 186.06px;
+left: 1184.4px;
+top: 566.16px;
+
+}
+.img10{
+    position: absolute;
+
+height: 186.06px;
+left: 1380.04px;
+top: 600.31px;
+
+}
+.depl{
+    position: absolute;
+left: 12%;
+top: 0%;
+bottom: 0%;
+
+}
+.button{
+    position: absolute;
+width: 393.19px;
+height: 94.94px;
+left: 250px;
+top: 650.06px;
+color:#FFAB00;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+background: #430711;
+border-radius: 32px;
+}

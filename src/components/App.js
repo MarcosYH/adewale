@@ -1,4 +1,5 @@
 //import Interfaceweb from './Interfaceweb'; 
+import Header from './Header';
 import Navbar from './Navbar';
 //import Navbar from './Navbar';
 
@@ -6,6 +7,7 @@ function App() {
   return (
     <div>
     <Navbar/>
+    <Header/>
 		</div>
   );
 }
