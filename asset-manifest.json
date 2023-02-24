@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adewale/static/css/main.ca57846c.css",
+    "main.js": "/adewale/static/js/main.a4147173.js",
+    "index.html": "/adewale/index.html",
+    "main.ca57846c.css.map": "/adewale/static/css/main.ca57846c.css.map",
+    "main.a4147173.js.map": "/adewale/static/js/main.a4147173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.a4147173.js"
+  ]
+}
