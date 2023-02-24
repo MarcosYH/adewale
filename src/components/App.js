@@ -1,17 +1,15 @@
-import '../styles/App.css'; 
+//import Interfaceweb from './Interfaceweb'; 
+import Navbar from './Navbar';
+//import Navbar from './Navbar';
 
 function App() {
-  const title = "Projet adewale"
-  const soustitle= "commençons"
   return (
-    
-    <div className="App">
-      <header className="App-header">
-        <h1 className='lmj-title'>{title}</h1>
-        <h2>{soustitle}</h2> 
-      </header>
-    </div>
+    <div>
+    <Navbar/>
+		</div>
   );
 }
+document.body.style.backgroundColor = "#f5f5f5";
+document.body.style.margin = "0";
 
 export default App;

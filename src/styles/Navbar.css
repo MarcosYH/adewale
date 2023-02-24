@@ -1,0 +1,66 @@
+.Accueil{
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 50px;
+    top: 37px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+.Apropos{
+    position: absolute;
+width: 120px;
+height: 30px;
+left: 210px;
+top: 35.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #412428;
+
+}
+.Contact{
+    position: absolute;
+width: 120px;
+height: 30px;
+left: 370px;
+top: 35.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #412428;
+
+} 
+.Boutique{
+    position: absolute;
+width: 120px;
+height: 30px;
+left: 530px;
+top: 35.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #412428;
+
+}
+.Navb{
+    list-style: none;
+}
