@@ -1,0 +1,179 @@
+.apropos{
+    position: absolute;
+
+height: 60px;
+left: 90.99px;
+top: 885px;
+
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+/* or 125% */
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #412428;
+
+}
+.soulignement{
+position: absolute;
+width: 143.13px;
+height: 8.26px;
+left: 90.87px;
+top: 960.16px;
+
+background: #FFAB00;
+border-radius: 10px;
+}
+.Apropos1{
+    position: absolute;
+    width: 478.78px;
+    height: 645.65px;
+    left: 49.88px;
+    top: 1149.61px;   
+}
+.textapropos{
+    position: absolute;
+width: 779.53px;
+height: 370px;
+left: calc(50% - 779.53px/2 + 327.71px);
+top: 1214.5px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+/* or 125% */
+
+text-align: justify;
+
+color: #430711;
+
+}
+.Diver{
+    position: absolute;
+    width: 114.32px;
+    height: 114.32px;
+    left: 683.33px;
+    top: 1565.68px;
+    
+background: #430711;
+border-radius: 57.16px;
+}
+.number1{
+    position: absolute;
+width: 56.96px;
+height: 50px;
+left: 712.79px;
+top: 1570.84px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+/* or 125% */
+
+text-align: center;
+
+color: #FFAB00;
+
+}
+.Diversifié{
+    position: absolute;
+    width: 163.7px;
+    height: 30px;
+    left: 656.3px;
+    top: 1710px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    /* or 141% */
+    
+    text-align: justify;
+    
+    color: #430711;
+}
+.Quali{
+
+    position: absolute;
+width: 114.32px;
+height: 114.32px;
+left: 1005.43px;
+top: 1565.68px;
+background: #430711;
+border-radius: 57.16px;
+}
+.number2{
+    position: absolute;
+width: 56.96px;
+height: 50px;
+left: 1034.9px;
+top: 1570.84px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+/* or 125% */
+
+text-align: center;
+
+color: #FFAB00;
+}
+.Qualité{
+    position: absolute;
+width: 150.53px;
+height: 30px;
+left: 997px;
+top: 1710px;
+
+font-weight: 700;
+font-size: 32px;
+line-height: 45px;
+/* or 141% */
+
+text-align: justify;
+
+color: #430711;
+}
+.Tradi{
+    position: absolute;
+width: 114.32px;
+height: 114.32px;
+left: 1315.43px;
+top: 1565.68px;
+background: #430711;
+border-radius: 57.16px;
+}
+.number3{
+    position: absolute;
+width: 56.96px;
+height: 50px;
+left: 1344.9px;
+top: 1570.84px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+/* or 125% */
+
+text-align: center;
+
+color: #FFAB00;
+}
+.Tradis{
+    position: absolute;
+width: 130.53px;
+height: 30px;
+left: 1325.2px;
+top: 1710px;
+font-weight: 700;
+font-size: 32px;
+line-height: 45px;
+/* or 141% */
+
+text-align: justify;
+
+color: #430711;
+
+}
+.bloc123{
+    position: absolute;
+    left: 250.2px;
+}
