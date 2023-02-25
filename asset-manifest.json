@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/adewale/static/css/main.09dbe0f7.css",
-    "main.js": "/adewale/static/js/main.54cfec56.js",
+    "main.css": "/adewale/static/css/main.2d5fdb25.css",
+    "main.js": "/adewale/static/js/main.aafff42e.js",
+    "static/media/ImgApropos1.png": "/adewale/static/media/ImgApropos1.477a7f00cb55adfc83eb.png",
     "static/media/Img9.png": "/adewale/static/media/Img9.ddb1cd7804d87e5a9bd9.png",
     "static/media/Img5.png": "/adewale/static/media/Img5.42738283a3a238b0bebe.png",
     "static/media/Img4.png": "/adewale/static/media/Img4.9b10e3d173c0729d28fb.png",
@@ -11,11 +12,11 @@
     "static/media/Img7.png": "/adewale/static/media/Img7.fe63de3e0fd3e48f3617.png",
     "static/media/Img2.png": "/adewale/static/media/Img2.07ed5fef638a9aa5a870.png",
     "index.html": "/adewale/index.html",
-    "main.09dbe0f7.css.map": "/adewale/static/css/main.09dbe0f7.css.map",
-    "main.54cfec56.js.map": "/adewale/static/js/main.54cfec56.js.map"
+    "main.2d5fdb25.css.map": "/adewale/static/css/main.2d5fdb25.css.map",
+    "main.aafff42e.js.map": "/adewale/static/js/main.aafff42e.js.map"
   },
   "entrypoints": [
-    "static/css/main.09dbe0f7.css",
-    "static/js/main.54cfec56.js"
+    "static/css/main.2d5fdb25.css",
+    "static/js/main.aafff42e.js"
   ]
 }
