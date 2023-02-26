@@ -31,14 +31,14 @@ border-radius: 10px;
     width: 478.78px;
     height: 645.65px;
     left: 49.88px;
-    top: 1149.61px;   
+    top: 1049.61px;   
 }
 .textapropos{
     position: absolute;
 width: 779.53px;
 height: 370px;
-left: calc(50% - 779.53px/2 + 327.71px);
-top: 1214.5px;
+left: 920.2px;
+top: 1114.5px;
 font-weight: 500;
 font-size: 36px;
 line-height: 45px;
@@ -54,7 +54,7 @@ color: #430711;
     width: 114.32px;
     height: 114.32px;
     left: 683.33px;
-    top: 1565.68px;
+    top: 1465.68px;
     
 background: #430711;
 border-radius: 57.16px;
@@ -64,7 +64,7 @@ border-radius: 57.16px;
 width: 56.96px;
 height: 50px;
 left: 712.79px;
-top: 1570.84px;
+top: 1470.84px;
 
 font-style: normal;
 font-weight: 500;
@@ -82,7 +82,7 @@ color: #FFAB00;
     width: 163.7px;
     height: 30px;
     left: 656.3px;
-    top: 1710px;
+    top: 1610px;
     font-weight: 700;
     font-size: 32px;
     line-height: 45px;
@@ -98,7 +98,7 @@ color: #FFAB00;
 width: 114.32px;
 height: 114.32px;
 left: 1005.43px;
-top: 1565.68px;
+top: 1465.68px;
 background: #430711;
 border-radius: 57.16px;
 }
@@ -107,7 +107,7 @@ border-radius: 57.16px;
 width: 56.96px;
 height: 50px;
 left: 1034.9px;
-top: 1570.84px;
+top: 1470.84px;
 font-weight: 500;
 font-size: 36px;
 line-height: 45px;
@@ -122,7 +122,7 @@ color: #FFAB00;
 width: 150.53px;
 height: 30px;
 left: 997px;
-top: 1710px;
+top: 1610px;
 
 font-weight: 700;
 font-size: 32px;
@@ -138,7 +138,7 @@ color: #430711;
 width: 114.32px;
 height: 114.32px;
 left: 1315.43px;
-top: 1565.68px;
+top: 1465.68px;
 background: #430711;
 border-radius: 57.16px;
 }
@@ -147,7 +147,7 @@ border-radius: 57.16px;
 width: 56.96px;
 height: 50px;
 left: 1344.9px;
-top: 1570.84px;
+top: 1470.84px;
 font-weight: 500;
 font-size: 36px;
 line-height: 45px;
@@ -162,7 +162,7 @@ color: #FFAB00;
 width: 130.53px;
 height: 30px;
 left: 1325.2px;
-top: 1710px;
+top: 1610px;
 font-weight: 700;
 font-size: 32px;
 line-height: 45px;
@@ -176,4 +176,11 @@ color: #430711;
 .bloc123{
     position: absolute;
     left: 250.2px;
+}
+.Rectangle1{
+    position: absolute;
+width: 50.11px;
+height: 290px;
+left: 1850.14px;
+top: 1000.5px;
 }

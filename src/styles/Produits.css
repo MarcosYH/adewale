@@ -1,0 +1,29 @@
+.swipe1{
+    position: absolute;
+width: 393.64px;
+height: 528.37px;
+left: 700.12px;
+top: 100.36px;
+
+border-radius: 32px;
+}
+
+.art1{
+    position: absolute;
+width: 393.64px;
+height: 528.37px;
+left: 85.12px;
+top: 100.36px;
+
+border-radius: 32px;
+}
+.barArticle1{
+    position: absolute;
+width: 396.52px;
+height: 60px;
+left: 82.25px;
+top: 100.73px;
+
+background: #FFAB00;
+border-radius: 0px 0px 32px 32px;
+}

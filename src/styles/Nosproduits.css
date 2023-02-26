@@ -7,7 +7,7 @@ top: 1900px;
 
 }
 .soulignement2{
-    position: absolute;
+position: absolute;
 width: 143.13px;
 height: 8.26px;
 left: 90.87px;
@@ -43,6 +43,8 @@ top: 2269.35px;
 
 border-radius: 32px;
 }
+
+
 .barArticle1{
     position: absolute;
 width: 396.52px;
@@ -117,5 +119,12 @@ color: #430711;
 }
 .listeproduits{
     position: absolute;
-    left: 250.2px;
+    left: 200.2px;
+}
+.Rectangle2{
+    position: absolute;
+    width: 50.11px;
+    height: 290px;
+    right: 1860.14px;
+top: 2850.1px;
 }

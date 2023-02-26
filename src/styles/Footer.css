@@ -34,7 +34,7 @@ background: #f5f5f5;
     position: absolute;
 width: 62.56px;
 height: 62.56px;
-left:600.85px;
+left:670.85px;
 top: 5750px;
 
 }
@@ -42,13 +42,83 @@ top: 5750px;
     position: absolute;
     width: 62.56px;
     height: 62.56px;
-    left:800.85px;
+    left:870.85px;
     top: 5750px;
 }
 .imglinkdiln{
     position: absolute;
     width: 62.56px;
     height: 62.56px;
-    left:1000.85px;
+    left:1070.85px;
     top: 5750px;
+}
+.Acc{
+position: absolute;
+width: 663.77px;
+height: 51.07px;
+left: 600.06px;
+top: 5650.34px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+text-align: justify;
+color: rgba(67, 7, 17, 0.98);
+}
+.Aprop{
+    position: absolute;
+width: 663.77px;
+height: 51.07px;
+left: 750.06px;
+top: 5650.34px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+text-align: justify;
+color: rgba(67, 7, 17, 0.98);
+}
+.Cont{
+    position: absolute;
+width: 663.77px;
+height: 51.07px;
+left: 930.06px;
+top: 5650.34px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+text-align: justify;
+color: rgba(67, 7, 17, 0.98);
+}
+.Bout{
+    position: absolute;
+width: 663.77px;
+height: 51.07px;
+left: 1100.06px;
+top: 5650.34px;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+text-align: justify;
+color: rgba(67, 7, 17, 0.98);
+}
+.imgc{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 650.02px;
+    top: 5850px;
+}
+.TextFooter{
+    position: absolute;
+width: 507.32px;
+height: 46.35px;
+left: 680.02px;
+top: 5838px;
+font-weight:500;
+font-size: 24px;
+line-height: 45px;
+
+text-align: justify;
+
+color: #430711;
+
 }

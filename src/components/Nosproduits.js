@@ -3,11 +3,13 @@ import '../styles/Nosproduits.css';
 import article1 from '../assets/article1.png'
 import article2 from '../assets/article2.png'
 import article3 from '../assets/article3.png'
+import Rectangle2 from '../assets/Rectangle2.png';
 import React from 'react';
 
 const Nosproduits = () => {
     return (
         <div>
+        <img src={Rectangle2} alt='Rectangle2' className='Rectangle2'/>
         <h1 className="produits"> NOS PRODUITS</h1>
         <div className="soulignement2"> </div>
         <div className='listeproduits'> 
@@ -22,7 +24,6 @@ const Nosproduits = () => {
         <span className='prix3'> 50€ </span>
         </div>
         
-
         </div>
     );
 }
