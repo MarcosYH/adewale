@@ -16,3 +16,106 @@ top: 1969px;
 background: #FFAB00;
 border-radius: 10px;
 }
+.art1{
+    position: absolute;
+width: 393.64px;
+height: 528.37px;
+left: 85.12px;
+top: 2267.36px;
+
+border-radius: 32px;
+}
+.art2{
+    position: absolute;
+width: 440.23px;
+height: 829.45px;
+left: 544.8px;
+top: 2142.24px;
+
+border-radius: 32px;
+}
+.art3{
+    position: absolute;
+width: 393.64px;
+height: 528.37px;
+left: 1036.12px;
+top: 2269.35px;
+
+border-radius: 32px;
+}
+.barArticle1{
+    position: absolute;
+width: 396.52px;
+height: 60px;
+left: 82.25px;
+top: 2735.73px;
+
+background: #FFAB00;
+border-radius: 0px 0px 32px 32px;
+}
+.barArticle2{
+    position: absolute;
+width: 443.45px;
+height: 79.76px;
+left: 541.58px;
+top: 2891.93px;
+
+background: #FFAB00;
+border-radius: 0px 0px 32px 32px;
+}
+.barArticl3{
+    position: absolute;
+    width: 396.52px;
+    height: 60px;
+    left: 1033.24px;
+    top: 2737.72px;
+    
+    background: #FFAB00;
+    border-radius: 0px 0px 32px 32px;
+}
+.prix1{
+    position: absolute;
+width: 80.58px;
+height: 30px;
+left: 240.22px;
+top: 2750px;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+text-align: justify;
+
+color: #430711;
+
+}
+.prix2{
+    position: absolute;
+width: 90.12px;
+height: 39.88px;
+left: 718.24px;
+top: 2910.9px;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+
+text-align: justify;
+
+color: #430711;
+
+}
+.prix3{
+    position: absolute;
+width: 80.58px;
+height: 30px;
+left: 1191.21px;
+top: 2751.99px;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+
+text-align: justify;
+color: #430711;
+}
+.listeproduits{
+    position: absolute;
+    left: 250.2px;
+}

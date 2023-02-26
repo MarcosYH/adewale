@@ -1,0 +1,114 @@
+.temoignages{
+    position: absolute;
+width: 390.01px;
+height: 60px;
+left: 90.99px;
+top: 3150px;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #412428;
+}
+.soulignement3{
+    position: absolute;
+width: 143.13px;
+height: 8.26px;
+left: 90.99px;
+top: 3225.16px;
+background: #FFAB00;
+border-radius: 10px;
+}
+.bloc1{
+box-sizing: border-box;
+position: absolute;
+width: 822.03px;
+height: 590px;
+left: 311.97px;
+top: 3406.02px;
+
+border: 9px solid #FFAB00;
+border-radius: 32px;
+}
+.bloc2{
+box-sizing: border-box;
+position: absolute;
+width: 822.03px;
+height: 590px;
+left: 349.49px;
+top: 3370px;
+background: #430711;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 32px;
+}
+.imgtem{
+    position: absolute;
+width: 210px;
+height: 230px;
+left: 206.97px;
+top: 3515px;
+}
+.Texttemoignage{
+    position: absolute;
+    width: 690px;
+    height: 360px;
+    left: 429.62px;
+    top: 3506px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 45px;
+    text-align: justify;
+    
+    color: #FFFFFF;
+    
+}
+.Nomtemoigneuse{
+    position: absolute;
+width: 166.91px;
+height: 40px;
+left: 430px;
+top: 3430px;
+font-weight: 500;
+font-size: 32px;
+line-height: 45px;
+text-align: justify;
+
+color: #FFAB00;
+}
+.professiontemoigueuse{
+    position: absolute;
+width: 315px;
+height: 40px;
+left: 603px;
+top: 3430px;
+font-weight: 400;
+font-size: 24px;
+line-height: 45px;
+text-align: justify;
+color: #DFD8C9;
+
+}
+.Etoile{
+    position: absolute;
+width: 172px;
+height: 32px;
+left: 888px;
+top: 3434px;
+
+}
+.symbole{
+    position: absolute;
+width: 131px;
+height: 130px;
+left: 1106.01px;
+top: 3260px;
+}
+.blocTemoignage{
+    position: absolute;
+    left: 250.2px;
+    
+}

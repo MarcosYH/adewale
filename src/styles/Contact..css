@@ -1,0 +1,49 @@
+.contact{
+    position: absolute;
+width: 390.01px;
+height: 60px;
+left: 90.99px;
+top: 4225px;
+
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #412428;
+
+}
+.soulignement4{
+position: absolute;
+width: 143.13px;
+height: 8.26px;
+left: 90.99px;
+top: 4300.16px;
+
+background: #FFAB00;
+border-radius: 10px;
+}
+.imgcontact{
+    position: absolute;
+    width: 1143.15px;
+    height: 758.87px;
+    left: 403.98px;
+    top: 4400.72px;
+    
+}
+.fondcontact{
+    position: absolute;
+width: 646.87px;
+height: 653.31px;
+left: 90.99px;
+top: 4460.06px;
+
+background: rgba(67, 7, 17, 0.98);
+border-radius: 32px;
+}
+.blocContatct{
+    position: absolute;
+    left: 250.2px;
+}
