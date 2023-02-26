@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/adewale/static/css/main.2d5fdb25.css",
-    "main.js": "/adewale/static/js/main.aafff42e.js",
+    "main.css": "/adewale/static/css/main.7c4c30c6.css",
+    "main.js": "/adewale/static/js/main.57419b49.js",
+    "static/media/imgcontact.png": "/adewale/static/media/imgcontact.170cb88a37dd7eb36cd2.png",
+    "static/media/article2.png": "/adewale/static/media/article2.3f4ef290bb7be0ec8920.png",
+    "static/media/article1.png": "/adewale/static/media/article1.62398ab47bcbb99858bd.png",
+    "static/media/article3.png": "/adewale/static/media/article3.f8d633c549886905c781.png",
     "static/media/ImgApropos1.png": "/adewale/static/media/ImgApropos1.477a7f00cb55adfc83eb.png",
     "static/media/Img9.png": "/adewale/static/media/Img9.ddb1cd7804d87e5a9bd9.png",
     "static/media/Img5.png": "/adewale/static/media/Img5.42738283a3a238b0bebe.png",
     "static/media/Img4.png": "/adewale/static/media/Img4.9b10e3d173c0729d28fb.png",
     "static/media/Img8.png": "/adewale/static/media/Img8.dbcf7d7d35cc07282517.png",
+    "static/media/imgTemoignage.png": "/adewale/static/media/imgTemoignage.a98b298cffd2e1d6e08d.png",
     "static/media/Img10.png": "/adewale/static/media/Img10.0ed2e33dfb01e051988d.png",
     "static/media/Img1.png": "/adewale/static/media/Img1.4e2fd0ae8851e0433722.png",
     "static/media/Img7.png": "/adewale/static/media/Img7.fe63de3e0fd3e48f3617.png",
     "static/media/Img2.png": "/adewale/static/media/Img2.07ed5fef638a9aa5a870.png",
     "index.html": "/adewale/index.html",
-    "main.2d5fdb25.css.map": "/adewale/static/css/main.2d5fdb25.css.map",
-    "main.aafff42e.js.map": "/adewale/static/js/main.aafff42e.js.map"
+    "main.7c4c30c6.css.map": "/adewale/static/css/main.7c4c30c6.css.map",
+    "main.57419b49.js.map": "/adewale/static/js/main.57419b49.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d5fdb25.css",
-    "static/js/main.aafff42e.js"
+    "static/css/main.7c4c30c6.css",
+    "static/js/main.57419b49.js"
   ]
 }
