@@ -21,7 +21,7 @@ top: 5300px;
     left: 750px;
     top: 5300px;
 border-radius: 152.34px;
-background: #f5f5f5;
+background: #ffffff;
 }
 .logofooter{
     position: absolute;
@@ -36,6 +36,7 @@ width: 62.56px;
 height: 62.56px;
 left:670.85px;
 top: 5750px;
+cursor: pointer;
 
 }
 .imginsta{
@@ -44,6 +45,7 @@ top: 5750px;
     height: 62.56px;
     left:870.85px;
     top: 5750px;
+    cursor: pointer;
 }
 .imglinkdiln{
     position: absolute;
@@ -51,6 +53,7 @@ top: 5750px;
     height: 62.56px;
     left:1070.85px;
     top: 5750px;
+    cursor: pointer;
 }
 .Acc{
 position: absolute;

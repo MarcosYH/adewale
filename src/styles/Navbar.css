@@ -4,10 +4,8 @@
     height: 24px;
     left: 278px;
     top: 48.5px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
+    cursor: pointer;
+    font-weight: 600;
     font-size: 20px;
     line-height: 24px;
     
@@ -20,9 +18,7 @@ width: 87px;
 height: 24px;
 left: 438px;
 top: 47px;
-
-font-family: 'Inter';
-font-style: normal;
+cursor: pointer;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -37,9 +33,7 @@ color: #412428;
 height: 24px;
 left: 598px;
 top: 47px;
-
-font-family: 'Inter';
-font-style: normal;
+cursor: pointer;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -49,14 +43,11 @@ color: #412428;
 
 } 
 .Boutique{
-    position: absolute;
-
+position: absolute;
 height: 24px;
 left: 758px;
 top: 47px;
-
-font-family: 'Inter';
-font-style: normal;
+cursor: pointer;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -82,4 +73,16 @@ top: -80px;
     left: 1300px;
     top: 33px;
     
+}
+.sectionapropos{
+    position: absolute;
+    top: 885px;
+}
+.sectioncontact{
+    position: absolute;
+    top: 4225px;
+}
+.sectionarticles{
+    position: absolute;
+    top: 1900px;
 }

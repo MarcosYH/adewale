@@ -10,9 +10,10 @@ const Footer = () => {
     return (
         <div>
         <div className='Fondfooter'> </div>
-        <img src={imgfacebook} alt='imgface' className='imgface'/>
-        <img src={imginsta} alt='imginsta' className='imginsta'/>
-        <img src={imglinkdiln} alt='imglink' className='imglinkdiln'/>
+
+        <a href="https://www.facebook.com/ema.ahossi?mibextid=LQQJ4d"><img src={imgfacebook} alt='imgface' className='imgface'/> </a>
+        <a href="https://instagram.com/emaahs3?igshid=NzAzN2Q1NTE="> <img src={imginsta} alt='imginsta' className='imginsta'/> </a>
+        <a href="https://www.linkedin.com/in/esther-ahossi-3a1a50226"><img src={imglinkdiln} alt='imglink' className='imglinkdiln'/> </a>
         <div className="cercle"> </div>
         <img src={logo} alt='logofooter' className='logofooter'/>
         <span className='Acc'> Accueil</span>

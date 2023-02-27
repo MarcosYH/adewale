@@ -46,3 +46,116 @@ border-radius: 32px;
     position: absolute;
     left: 250.2px;
 }
+.formligneNom{  
+  border: 0;
+  border-bottom: 2px solid;
+  outline: 0;
+  font-size: 1.3rem;
+  color: white;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+  position: absolute;
+width: 503.72px;
+height: 20px;
+left: 141.5px;
+top: 4600.06px;
+
+}
+.labelNom{
+    position: absolute;
+width: 169.55px;
+height: 63.54px;
+left: 141.77px;
+top: 4530.09px;
+
+font-weight: 600;
+font-size: 24px;
+line-height: 45px;
+/* or 188% */
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #E3C7C7;
+
+}
+.formligneEmail{
+    border: 0;
+  border-bottom: 2px solid;
+  outline: 0;
+  font-size: 1.3rem;
+  color: white;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+  position: absolute;
+  width: 503.72px;
+height: 20px;
+left: 141.5px;
+top: 4750.06px;
+}
+.labelEmail{
+    position: absolute;
+width: 169.55px;
+height: 63.54px;
+left: 141.77px;
+top: 4690.09px;
+
+font-weight: 600;
+font-size: 24px;
+line-height: 45px;
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #E3C7C7;
+}
+
+.formligneMsg{
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+    font-size: 1.3rem;
+    color: white;
+    padding: 7px 0;
+    background: transparent;
+    transition: border-color 0.2s;
+    position: absolute;
+    width: 503.72px;
+height: 20px;
+left: 141.5px;
+top: 4920.06px;
+}
+.labelMsg{
+    position: absolute;
+width: 169.55px;
+height: 63.54px;
+left: 141.77px;
+top: 4850.09px;
+
+font-weight: 600;
+font-size: 24px;
+line-height: 45px;
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #E3C7C7;
+}
+.bouttonEnvoyer{
+position: absolute;
+width: 225.43px;
+height: 62.24px;
+left: 141.77px;
+top: 5010.83px;
+
+background: #470A11;
+box-shadow: 0px 4px 4px rgba(255, 171, 0, 0.54);
+border-radius: 32px;
+font-weight: 700;
+font-size: 24px;
+
+
+color: #FFAB00;
+}

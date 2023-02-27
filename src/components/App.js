@@ -7,13 +7,14 @@ import Nosproduits from './Nosproduits';
 import Temoignages from './Temoignages';
 import Contact from './Contact';
 import Footer from './Footer';
-
+import ScrollToTop from './ScrollToTop';
 
 function App() {
   
   return (
     <div>
     <Navbar/>
+    <ScrollToTop/>
     <Header/>
     <Apropos/>
     <Nosproduits/>
@@ -23,7 +24,7 @@ function App() {
 		</div>
   );
 }
-document.body.style.backgroundColor = "#f5f5f5";
+document.body.style.backgroundColor = "#ffffff";
 document.body.style.margin = "0";
 
 export default App;

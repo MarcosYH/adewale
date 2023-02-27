@@ -15,9 +15,11 @@ function Header(){
 
         <div>
         <h1 className='text'>
+        <div>
         <span className='text1'>REFLECTEZ QUI VOUS ÊTES AVEC NOTRE </span>
         <span className='text2'>STYLE TYPIQUEMENT </span>
         <span className='text2-2'> AFRICAIN </span>
+        </div>
         </h1>
         <h3 className="text3">
         Révélez votre identité avec la boutique adéwae. Avec ses produits, transformez votre style,votre look en un style purement africain.
@@ -36,9 +38,10 @@ function Header(){
         </div>
 
         <div className="but">
-       <button className="button" type="button" onClick={()=> {}}>Achetez maintenant</button>
+        <a href="https://www.african-avenue.com/239-julius-" method="get" target="_blank" class="buttona">
+        <button className="button" type="button" >Achetez maintenant</button>
+        </a>
         </div>
-
 
         </div>
     );
