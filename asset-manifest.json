@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adewale/static/css/main.e6722b25.css",
-    "main.js": "/adewale/static/js/main.618cc32f.js",
+    "main.js": "/adewale/static/js/main.e4394867.js",
     "static/media/imgcontact.png": "/adewale/static/media/imgcontact.170cb88a37dd7eb36cd2.png",
     "static/media/article2.png": "/adewale/static/media/article2.3f4ef290bb7be0ec8920.png",
     "static/media/article1.png": "/adewale/static/media/article1.62398ab47bcbb99858bd.png",
@@ -18,10 +18,10 @@
     "static/media/Img2.png": "/adewale/static/media/Img2.07ed5fef638a9aa5a870.png",
     "index.html": "/adewale/index.html",
     "main.e6722b25.css.map": "/adewale/static/css/main.e6722b25.css.map",
-    "main.618cc32f.js.map": "/adewale/static/js/main.618cc32f.js.map"
+    "main.e4394867.js.map": "/adewale/static/js/main.e4394867.js.map"
   },
   "entrypoints": [
     "static/css/main.e6722b25.css",
-    "static/js/main.618cc32f.js"
+    "static/js/main.e4394867.js"
   ]
 }
