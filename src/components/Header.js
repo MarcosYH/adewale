@@ -14,13 +14,14 @@ function Header(){
     return(
 
         <div>
-        <h1 className='text'>
+        
         <div>
+        <h1 className='text'>
         <span className='text1'>REFLECTEZ QUI VOUS ÊTES AVEC NOTRE </span>
         <span className='text2'>STYLE TYPIQUEMENT </span>
         <span className='text2-2'> AFRICAIN </span>
-        </div>
         </h1>
+        </div>
         <h3 className="text3">
         Révélez votre identité avec la boutique adéwae. Avec ses produits, transformez votre style,votre look en un style purement africain.
         </h3>
